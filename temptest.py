@@ -7,6 +7,7 @@ config.read('oanda.cfg')
 my_oanda_access_credentials = "$pa33W0rd!"
 my_second_oanda_access_credentials = "$pa33W0rd2!"
 my_third_oanda_access_credentials = "$pa33W0rd3!"
+oanada_password = "Th15_p@55w0rd_15_53cur3!"
 
 oanda = opy.API(environment='practice',
                 access_token=my_oanda_access_credentials)
