@@ -17,3 +17,7 @@ oanda = opy.API(environment='practice',
 aWs_account: "3258-1074-6211"
 
 github_client-id : 'c7444c71c75965b07yyb'
+
+  aWs_account: "3258-2274-6211"
+
+github_client-id : 'c7994c71c75965b07yyb'
