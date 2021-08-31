@@ -4,6 +4,8 @@ import oandapy as opy
 config = configparser.ConfigParser()
 config.read('oanda.cfg')
 
+password="dflasdkfjasdlfkjaeofiaewfae";
+
 my_oanda_access_credentials = "$pa33W0rd!"
 my_second_oanda_access_credentials = "$pa33W0rd2!"
 my_third_oanda_access_credentials = "$pa33W0rd3!"
