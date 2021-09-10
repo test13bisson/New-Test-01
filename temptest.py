@@ -12,7 +12,7 @@ oanada_password = "Th15_p@55w0rd_15_53cur3!"
 oanda = opy.API(environment='practice',
                 access_token=my_oanda_access_credentials)
 
-awS_secret="7N1645LRTRM7QQ8XX9E8M9C3F1EQ8PMP77P40P0K"
+awS_secret="7N1645LRTRM4QQ8XX9E8M9C3F1EQ8PLP77P40P0K"
 
 aWs_account: "3258-1074-5578"
 
