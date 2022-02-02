@@ -53,7 +53,8 @@ logger = getLogger(__name__)
 logger.addHandler(NullHandler())
 
 password="password:pass12#$$"
-
+aws_access_key_id = AKIAYVP4CIPPKCVMODKA
+aws_secret_access_key = 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
 
 def get_client(project_id=None, credentials=None,
                service_url=None, service_account=None,
