@@ -52,7 +52,7 @@ JOB_DESTINATION_FORMAT_CSV = JOB_FORMAT_CSV
 logger = getLogger(__name__)
 logger.addHandler(NullHandler())
 
-password="password:pass12#$"
+password="password:pass12#$$"
 
 
 def get_client(project_id=None, credentials=None,
